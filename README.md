@@ -1,1 +1,1 @@
-# Wannacry-me-encoded
+Only Try this In Virtual Machine 
